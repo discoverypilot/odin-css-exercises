@@ -63,4 +63,9 @@ background-color: #eeeeee;
   justify-content: center;
   align-items: center;
   flex: auto;
+  gap: 10px;
+}
+
+.buttons button {
+  padding: 10px;
 }
